@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+there!+👋&center=true&size=30">
+  </a>
+  <p>I'm Peter, backend Python-developer</p>
+</h1>
 
-<!--
-**Pythonusus/Pythonusus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About me</h2>
+<ul>
+  <li>☕ Turning coffe into code</li>
+  <li>📚 <a href="https://ru.hexlet.io/u/pythonusus">Hexlet</a> graduate</li>
+  <li>🌉 Former bridge engineer</li>
+  <li>🧗🏼‍♂️ Enjoying rock climbing</li>
+</ul>
 
-Here are some ideas to get you started:
+<h2>⚒️ Languages & Frameworks & Tools & Abilities ⚒️</h2>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,flask,postgresql,html,css,git,bash" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📫 Reach me</h2>
+<ul>
+  <li><a href="https://t.me/Petr_Malafeev" target="_blank">https://t.me/Petr_Malafeev</a></li>
+  <li><a href="mailto:malafeevpa@yandex.ru" target="_blank">malafeevpa@yandex.ru</a></li>
+</ul>
