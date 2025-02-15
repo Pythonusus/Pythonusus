@@ -20,6 +20,11 @@
   </a>
 </p>
 
+<h2>📋 My CV</h2>
+<ul>
+  <li><a href="https://career.habr.com/pythonusus">https://career.habr.com/pythonusus</a></li>
+  <li><a href="https://cv.hexlet.io/ru/resumes/9765">https://cv.hexlet.io/ru/resumes/9765</a></li>
+</ul>
 <h2>📫 Reach me</h2>
 <ul>
   <li><a href="https://t.me/Petr_Malafeev" target="_blank">https://t.me/Petr_Malafeev</a></li>
