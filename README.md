@@ -22,8 +22,9 @@
 
 <h2>📋 My CV</h2>
 <ul>
-  <li><a href="https://career.habr.com/pythonusus">https://career.habr.com/pythonusus</a></li>
-  <li><a href="https://cv.hexlet.io/ru/resumes/9765">https://cv.hexlet.io/ru/resumes/9765</a></li>
+  <li><a href="https://career.habr.com/pythonusus">CV on habr.com</li>
+  <li><a href="https://hh.ru/resume/92416090ff0e6cebfb0039ed1f766931615144">CV on hh.ru</a></li>
+  <li><a href="https://cv.hexlet.io/ru/resumes/9765">CV on cv.hexlet.io</a></li>
 </ul>
 <h2>📫 Reach me</h2>
 <ul>
