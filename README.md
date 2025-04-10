@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+there!+👋&center=true&size=30">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=11F725&center=true&vCenter=true&lines=Hello+there!" alt="Typing SVG" />
   <p>I'm Peter, backend Python-developer</p>
 </h1>
 
