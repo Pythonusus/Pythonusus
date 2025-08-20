@@ -27,5 +27,5 @@
 <h2>📫 Reach me</h2>
 <ul>
   <li><a href="https://t.me/Petr_Malafeev" target="_blank">https://t.me/Petr_Malafeev</a></li>
-  <li><a href="mailto:malafeevpa@yandex.ru" target="_blank">malafeevpa@yandex.ru</a></li>
+  <li><a href="mailto:malafeev.pa@gmail.com" target="_blank">malafeevpa@yandex.ru</a></li>
 </ul>
