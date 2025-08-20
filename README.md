@@ -14,7 +14,7 @@
 <h2>⚒️ Languages & Frameworks & Tools & Abilities ⚒️</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,flask,postgresql,html,css,git,bash" />
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,postgresql,html,css,js,react,git,bash" />
   </a>
 </p>
 
